@@ -8,13 +8,15 @@ package com.mycompany.unidad6;
  *
  * @author Alo
  */
-public class Hexagono {
+public class Hexagono extends poligonoRegular{
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+	//Esto es un hexagono
+	//Constructor ejercicio10
     }
     
 }

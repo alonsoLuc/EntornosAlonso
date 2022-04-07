@@ -29,6 +29,7 @@ public class App {
         System.out.println("superficie:  "+cua1.superficie());
         
         Hexagono h= new Hexagono();
+	Constructor ejercicio10
     }
     
 }
